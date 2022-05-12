@@ -92,12 +92,12 @@ header {
 .connect-wallet-button {
 	background-image: linear-gradient(
 		to right,
-		#ff8177 0%,
-		#ff867a 0%,
-		#ff8c7f 21%,
-		#f99185 52%,
-		#cf556c 78%,
-		#b12a5b 100%
+		#dfb797 0%,
+		#f2cc8f 0%,
+		#cb9e59 21%,
+		#e07a5f 52%,
+		#bc6c25 78%,
+		#444546 100%
 	);
 	background-size: 200% 200%;
 	animation: gradient-animation 4s ease infinite;
